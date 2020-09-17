@@ -10,4 +10,5 @@ add_executable(Client socket/selectversion/Client.cpp)
 add_executable(Server socket/selectversion/Server.cpp)
 add_executable(dns dns/dns.c)
 add_executable(dns2 dns/dns2.c)
+add_executable(FtpClient ftp/FtpClient.c)
 
